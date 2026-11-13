@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Karting Analysis",
+  "short_name": "Karting Analysis",
+  "description": "Analyse et coaching de sessions de karting avec données Alfano.",
+  "lang": "fr-FR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7fb",
+  "theme_color": "#101a2d",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
